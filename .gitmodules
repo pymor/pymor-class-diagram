@@ -1,0 +1,3 @@
+[submodule "pymor"]
+	path = pymor
+	url = git@github.com:pymor/pymor.git
